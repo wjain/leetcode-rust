@@ -1,0 +1,17 @@
+[package]
+name = "two-sum"
+version = "0.1.0"
+authors = ["jain_y <jain_y@126.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+[features]
+default = ["map"]
+
+fori=[]
+map=[]
+
